@@ -32,11 +32,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash1211222&show_icons=true&locale=en" alt="akash1211222" /></p>
 
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash1211222&" alt="akash1211222" /></p>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Akash1211222/Akash1211222/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" width="500" src="https://camo.githubusercontent.com/3f1c7149ef5dd6fe017b8c3dc91392635d12ae2712bf8539d2c7cfb391676f7a/68747470733a2f2f692e696d6775722e636f6d2f547052445a35322e676966" />
   
   <br/><br/><br/>
 </div>
