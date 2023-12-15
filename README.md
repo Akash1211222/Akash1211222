@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Akash Paul</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akash+Paul!;" />
+</h1>
+
+<h1 align="center">A Passionate Software Devloper and Web Developer</h1>
 <h3 align="center">I am recent computer science graduate with a strong foundation in full stack development. As a fresher, I am eager to apply my knowledge and skills in a professional setting. I have a solid understanding of front-end and back-end technologies, including JavaScript, HTML/CSS, Python and SQL. I am a quick learner and is always willing to take on new challenges.I am dedicated and passionate developer with a strong desire to excel in this field."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash1211222&label=Profile%20views&color=0e75b6&style=flat" alt="akash1211222" /> </p>
