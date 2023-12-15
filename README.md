@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash1211222" alt="akash1211222" /></a> </p>
 
+<img align="right" alt="coding" width="400" src="https://github.com/Akash1211222/Akash1211222/assets/90515043/7bb97872-8a8d-4b4d-8b60-077fd45abcb2)">
+
 - 🔭 I’m currently working on [Gaana Clone](https://github.com/Akash1211222/Gaana.com-Clone---React-Project-1---aon7vp34l5hm)
 
 - 🌱 I’m currently learning **Redux, Stage Management**
