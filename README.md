@@ -38,7 +38,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" width="500" src="https://camo.githubusercontent.com/3f1c7149ef5dd6fe017b8c3dc91392635d12ae2712bf8539d2c7cfb391676f7a/68747470733a2f2f692e696d6775722e636f6d2f547052445a35322e676966" />
+  <img alt="snake eating my contributions" width="500" src="https://media0.giphy.com/media/wRXhOy3xMSk6KC3Xxc/giphy.gif?cid=6c09b9521agckn0mc7qbwu3u3eoj8mtl51ll5ubqgr6a1s64&ep=v1_stickers_related&rid=giphy.gif&ct=s" />
   
   <br/><br/><br/>
 </div>
