@@ -11,7 +11,7 @@
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-- 🔭 I’m currently working on [Goibibo Clone](https://github.com/Akash1211222/Goibibo-Clone---React-Project-2---6fw1ez8wraqg)
+- 🔭 I’m currently working on Full Stack [E-Commarce_Website](https://github.com/Akash1211222/E-commerce_Full_stack)
 
 - 🌱 I’m currently learning **Redux, Stage Management**
 
@@ -36,7 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash1211222&" alt="akash1211222" /></p>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Something Giphy 🐍</h2>
   <br>
   <img alt="snake eating my contributions" width="500" src="https://media0.giphy.com/media/wRXhOy3xMSk6KC3Xxc/giphy.gif?cid=6c09b9521agckn0mc7qbwu3u3eoj8mtl51ll5ubqgr6a1s64&ep=v1_stickers_related&rid=giphy.gif&ct=s" />
   
