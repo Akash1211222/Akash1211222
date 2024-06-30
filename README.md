@@ -18,6 +18,7 @@
 - 💬 Ask me about **react, JavaScript, Java**
 
 - 📫 How to reach me [akash06paul19@gmail.com](https://mail.google.com/mail/)
+- 🪇 My Insta ID [Insta_Profile/akashpaul312](https://www.instagram.com/akashpaul312/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
