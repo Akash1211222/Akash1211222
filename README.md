@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react, JavaScript, Java**
 
-- 📫 How to reach me **akash06paul19@gmail.com**
+- 📫 How to reach me [akash06paul19@gmail.com](https://mail.google.com/mail/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
