@@ -19,6 +19,7 @@
 
 - 📫 How to reach me [akash06paul19@gmail.com](https://mail.google.com/mail/)
 - 🪇 My Insta ID [Insta_Profile/akashpaul312](https://www.instagram.com/akashpaul312/)
+- 📚 Lets Connect in [LinkedIn](https://www.linkedin.com/in/akashpaul1997/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
