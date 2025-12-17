@@ -11,8 +11,7 @@
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-- 🔭 I’m currently working on Full Stack [E-Commarce_Website](https://github.com/Akash1211222/E-commerce_Full_stack)
-
+- 🔭 I’m currently working on Full Stach [FutureCorp LMS_Webapp]
 - 🌱 I’m currently learning **Redux, Stage Management**
 
 - 💬 Ask me about **react, JavaScript, Java**
